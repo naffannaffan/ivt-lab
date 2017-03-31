@@ -37,4 +37,4 @@ The project represents an alpha version of a spaceship.
 
 ## Change README
 
-Branch-A
+Branch A and B
